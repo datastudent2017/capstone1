@@ -18,7 +18,7 @@ Below are the column names and information:
 - **Speeding Score** – Score that the GPS vendor calculates 
 - 	**Highway and City % Fields** – These measure the percentage of time the driver spent speeding, and by how much. Example, if they had a 3% in the Highway 1-5 % that means they were speeding by 1-5 miles per hour 3% of the time they were driving on the highway. This measurement was only turned on for a few months in the larger dataset – in this particular sample of the data, it is all zero.
 - **Acceleration** - This is the number of rapid acceleration events recorded by the device in the timeframe. Rapid acceleration events are an increase in speed of 6 miles per hour, per second, or greater. 
--**Braking** - This is the number of hard braking events recorded by the device in the timeframe. Hard Braking is defined as a decrease in speed of 8 miles per hour, per second, or greater. 
+- **Braking** - This is the number of hard braking events recorded by the device in the timeframe. Hard Braking is defined as a decrease in speed of 8 miles per hour, per second, or greater. 
 - **Aggression Score**- This is the proprietary calculation ranking that combines acceleration, braking, and total amount of driving. A high score is  good - imagine getting a high score on a test. A low score means that the driver is more aggressive. 
 
 ## Files
