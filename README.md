@@ -23,5 +23,5 @@ Below are the column names and information:
 
 ## Files
 - **cap1dataclean.ipynb**  - This is the file for the data wrangling / cleaning assignment.
-- **capstone1datastory.ipynb ** - This file is for the EDA assignment.
+- **capstone1datastory.ipynb** - This file is for the EDA assignment.
 - **Behavior09012016.csv** - This is the dataset for the initial analysis.
